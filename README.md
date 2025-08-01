@@ -64,6 +64,7 @@ press 'y' to continue calculation with 10.0 or press 'n' to continue with new nu
 
 
 ✅ Requirements
+
 Python 3.x
 
 
